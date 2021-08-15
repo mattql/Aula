@@ -5,7 +5,7 @@ public class Caneta {
 	     private float ponta;
 	     private int carga;
 	     private boolean tampada;
-	    
+	     //teste
   
 	     public Caneta(String modelo, String cor, float ponta) {
 			super();
